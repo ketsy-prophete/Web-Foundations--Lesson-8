@@ -1,0 +1,74 @@
+html, body, div, img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contact {
+    font-family: "Madimi One", sans-serif;
+    padding: 5px;
+    background-color:#E381B4;
+    border-radius: 0px 0px 0px 8px;
+    color: white;
+}
+
+.home {
+    font-family: "Madimi One", sans-serif;
+    padding: 5px;
+    background-color:#AB6188;
+    color: white;
+}
+
+.about {
+    font-family: "Madimi One", sans-serif;
+    padding: 5px;
+    background-color:#63394F;
+    color: white;
+}
+
+.message-container1 {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #AB6188;
+    border-radius: 10px;
+}
+
+.message-container2 {
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #AB6188;
+    border-radius: 8px;
+}
+
+.person1 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.message1 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: light;
+}
+
+.person2 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.message2 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: light;
+}
